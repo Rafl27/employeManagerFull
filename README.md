@@ -2,8 +2,8 @@
 Full stack application for managing employees. Made with Spring boot and AngularJS.
 
 All employees
-![Screenshot](employeeManagerementFullPics/all.png)
+![Screenshot](employeeManagementFullPics/all.png)
 
 Add employee form
-![Screenshot](employeeManagerementFullPics/add-form.png)
+![Screenshot](employeeManagementFullPics/add-form.png)
 
