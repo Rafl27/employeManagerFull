@@ -7,3 +7,11 @@ All employees
 Add employee form
 ![Screenshot](employeeManagementFullPics/add-form.png)
 
+Edit employee's info
+![Screenshot](employeeManagementFullPics/edit.png)
+
+Search for a employee
+![Screenshot](employeeManagementFullPics/search.png
+
+Delete an employee
+![Screenshot](employeeManagementFullPics/delete.png)
