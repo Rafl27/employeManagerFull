@@ -1,4 +1,4 @@
-# employeManagerFull
+# Employee Management
 Full stack application for managing employees. Made with Spring boot and AngularJS.
 
 All employees
